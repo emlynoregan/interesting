@@ -1,0 +1,14 @@
+{
+  "type": "object",
+  "properties": {
+    "declvar": {
+      "type": "string"
+    },
+    "default": {
+    }
+  },
+  "required": [
+    "declvar"
+  ],
+  "additionalProperties": false
+}

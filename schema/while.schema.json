@@ -1,0 +1,13 @@
+{
+  "type": "object",
+  "properties": {
+    "while": {},
+    "do": {
+      "type": "array"
+    }
+  },
+  "required": [
+    "while", "do"
+  ],
+  "additionalProperties": false
+}

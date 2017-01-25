@@ -1,0 +1,15 @@
+{
+  "type": "object",
+  "properties": {
+    "callfunc": {
+      "type": "string"
+	},
+	"args": {
+      "type": "array"
+    }
+  },
+  "required": [
+    "callfunc"
+  ],
+  "additionalProperties": false
+}

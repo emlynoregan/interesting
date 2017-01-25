@@ -1,0 +1,10 @@
+{
+  "type": "object",
+  "properties": {
+    "lit": {}
+  },
+  "required": [
+    "lit"
+  ],
+  "additionalProperties": false
+}

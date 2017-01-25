@@ -1,0 +1,14 @@
+{
+  "type": "object",
+  "properties": {
+    "for": {},
+    "in": {},
+    "do": {
+      "type": "array"
+    }
+  },
+  "required": [
+    "for", "in", "do"
+  ],
+  "additionalProperties": false
+}

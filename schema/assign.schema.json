@@ -1,0 +1,14 @@
+{
+  "type": "object",
+  "properties": {
+    "assign": {
+      "type": "string"
+    },
+    "value": {
+    }
+  },
+  "required": [
+    "assign", "value"
+  ],
+  "additionalProperties": false
+}

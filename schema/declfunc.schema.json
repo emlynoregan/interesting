@@ -1,0 +1,18 @@
+{
+  "type": "object",
+  "properties": {
+    "declfunc": {
+      "type": "string"
+    },
+	"args": {
+      "type": "array"
+    },
+    "body": {
+      "type": "array"
+    }
+  },
+  "required": [
+    "declfunc"
+  ],
+  "additionalProperties": false
+}

@@ -1,0 +1,10 @@
+{
+  "type": "object",
+  "properties": {
+    "pre": {
+      "type": "array",
+      "items": {}
+    },
+    "main": {}
+  }
+}
